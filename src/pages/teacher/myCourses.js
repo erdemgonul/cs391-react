@@ -36,6 +36,6 @@ export default function MyCourses() {
 				</tbody>
 			</Table>
             </Col>
-		</Layout >
+		</Layout>
 	);
 }
